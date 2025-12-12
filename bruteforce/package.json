@@ -1,0 +1,13 @@
+{
+  "name": "aeds2-tsp-bruteforce",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "node bruteforcetime.js",
+    "bruteforce": "node bruteforce.js",
+    "test": "echo \"No tests\""
+  },
+  "engines": {
+    "node": ">=16"
+  }
+}
